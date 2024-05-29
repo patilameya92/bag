@@ -1,0 +1,6 @@
+bmon
+htop
+python3.10-venv
+shellcheck
+tmux
+tree
